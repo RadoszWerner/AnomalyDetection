@@ -1,0 +1,13 @@
+requests
+pandas
+jupyter
+scikit-learn
+graphviz
+matplotlib
+plotly
+adtk
+statsmodels
+pmdarima
+tqdm
+pyod
+
